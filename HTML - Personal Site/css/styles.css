@@ -1,0 +1,34 @@
+body{
+    background-color: #eeebdd;
+}
+
+h3{
+    color: #eba83a;
+}
+
+img:hover{
+    background-color: darkcyan;
+}
+
+hr{    
+    width: 5%;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: grey;
+}
+
+h1{
+    color: #962d2d;
+}
+
+/* a{
+    color: #bb371a;
+} */
+
+.c {
+    color: chocolate;
+}
+
+.t {
+    color: darkcyan;
+}
